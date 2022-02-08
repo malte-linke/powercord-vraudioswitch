@@ -1,0 +1,7 @@
+{
+  "name": "VR Audio Switch",
+  "description": "Automatically switches your Input and Output device when Virtual Desktop is running. ",
+  "author": "Parzival#9999",
+  "version": "1.0.0",
+  "license": "GPL-3.0"
+}
